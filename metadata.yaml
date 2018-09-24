@@ -1,11 +1,16 @@
 _repo: Hetfalusi-csango-nepmesek-Nepkoltesi-gyujtemeny-10-kotet_56057
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   adapter:
     agent_name: Horger, Antal
     gutenberg_agent_id: '48652'
     url: http://www.gutenberg.org/2009/agents/48652
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56057#Hetfalusi-csango-nepmesek-Nepkoltesi-gyujtemeny-10-kotet
 gutenberg_issued: '2017-11-27'
 gutenberg_type: Text
 identifiers:
